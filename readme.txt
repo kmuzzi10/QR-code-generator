@@ -1,0 +1,1 @@
+this is qr code generator using node and npm just open vscode and run this file in terminal by using node command
